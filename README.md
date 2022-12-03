@@ -15,5 +15,6 @@ CENTRAL_LIMIT_THEOREM : experimental validation of the central limit theorem. <b
 ### Finance
 
 Heston_Option_Pricing : implementation of the Heston and Black-Scholes models using monte-carlo simulations. Plots of the price distributions and volatility smiles. <br> 
+ENS_QRT22_FG : ENS QRT 2022 DATA CHALLENGE : prediction of stock returns using Stiefel matrices <br>
 
 
