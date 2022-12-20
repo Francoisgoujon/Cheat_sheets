@@ -14,12 +14,15 @@ Python cheat sheets about various subjects including Mathematics, Algorithmics a
 
 ### Finance
 
-H**eston_Option_Pricing** : Implementation of the Heston and Black-Scholes models using monte-carlo simulations. Plots of the price distributions and volatility smiles. <br> 
+**Heston_Option_Pricing** : Implementation of the Heston and Black-Scholes models using monte-carlo simulations. Plots of the price distributions and volatility smiles. <br> 
 
 **ENS_QRT22_FG** : ENS QRT 2022 DATA CHALLENGE : prediction of stock returns using Stiefel matrices <br>
 
 **BlackScholes** : BlackScholes option pricing and structured products builder <br>
 
 **MA_CrossOver** :  SMA et EMA CrossOver strategy implementation with backtesting <br>
+
+
+Some of the finance notebooks are inspired by examples shared by Tribhuvan Bisen on Linkedin.
 
 
