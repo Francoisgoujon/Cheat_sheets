@@ -3,7 +3,7 @@
 Python cheat sheets about various subjects including Probability/Statistics, Algorithmics/Operations Research, and Finance. <br>
 
 
-### Algorithmics and OR : 
+## Algorithmics and OR : 
 
 **DFS_BFS_DIJKSTRA** : <br>
 - Different versions of DFS, BFS and DIJKSTRA algorithms with some examples <br>
@@ -11,12 +11,12 @@ Python cheat sheets about various subjects including Probability/Statistics, Alg
 **SORT** : <br> 
 - Different versions of sorting algorithms <br>
 
-### Probability/Statistics : 
+## Probability/Statistics : 
 
 **CENTRAL_LIMIT_THEOREM** : <br>
 - Experimental validation of the central limit theorem. <br>
 
-### Finance : 
+## Finance : 
 
 **Heston_Option_Pricing** : <br> 
 - Implementation of the Heston and Black-Scholes models using monte-carlo simulations. Plots of the price distributions and volatility smiles. <br> 
